@@ -9,7 +9,8 @@ This repository provides the code used to demonstrate the unified causal inferen
 - Negative control validation (*Acidaminococcus intestini*)
 - E-value sensitivity analysis
 
-## Results: 
+## Outputs: 
+- The code for the DAG construction in dagitty
 - The detailed statistical results can be found in the DML_bootstrap_negative_control_results.xlsx. 
 - The figure of the DAG (saved as model.png)
 - The forest plot with the negative control
