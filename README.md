@@ -19,5 +19,5 @@ When applying the code or using the results in this repository, please cite:
 
 Ascandari A, Aminu S, Benhida R, Daoud R. (2026). From Association to Causation: A Decision-Aware Framework for Reproducible Biomarker Discovery and Precision Intervention Design in the Human Gut Microbiome. Briefings in Bioinformatics.
 
-This repository is permanently archived at Zenodo with DOI : 
+This repository is permanently archived at Zenodo with 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19047082.svg)](https://doi.org/10.5281/zenodo.19047082)
