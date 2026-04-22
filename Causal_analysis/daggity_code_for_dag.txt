@@ -1,0 +1,23 @@
+dag {
+bb="-3.809,-3.791,3.707,3.73"
+Adhesion_signaling [pos="-0.888,-2.715"]
+Age [pos="1.414,-2.997"]
+BMI [pos="2.865,1.389"]
+CRC [outcome,pos="0.283,-0.589"]
+Fusobacterium_nucleatum [exposure,pos="-0.085,1.967"]
+Immune_modulation [pos="-2.610,-1.531"]
+SCFAs [pos="-2.706,0.084"]
+Sex [pos="2.672,-1.719"]
+Adhesion_signaling -> CRC
+Age -> CRC
+Age -> Fusobacterium_nucleatum
+BMI -> CRC
+BMI -> Fusobacterium_nucleatum
+Fusobacterium_nucleatum -> Adhesion_signaling
+Fusobacterium_nucleatum -> Immune_modulation
+Fusobacterium_nucleatum -> SCFAs
+Immune_modulation -> CRC
+SCFAs -> CRC
+Sex -> CRC
+Sex -> Fusobacterium_nucleatum
+}
