@@ -1,0 +1,3 @@
+Taxon,ATE_asymptotic,CI_lower_asymptotic,CI_upper_asymptotic,ATE_bootstrap_mean,CI_lower_bootstrap,CI_upper_bootstrap
+Fusobacterium nucleatum_J,0.026431933,0.020516374,0.032347491,0.026106368,0.020621175,0.033265724
+Acidaminococcus intestini,0.000569516,-0.003693824,0.004832856,0.000491661,-0.003468961,0.004712092
