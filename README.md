@@ -1,5 +1,5 @@
 # Unified Causal Inference Framework – CRC Microbiome Demonstration
-This repository provides the code used to demonstrate the unified causal inference framework for our manuscript currently under review at Briefings in Bioinformatics (2026). It includes detailed results and figures generated from eight public colorectal cancer (CRC) metagenomic datasets available from the NCBI Sequence Read Archive (SRA) under accessions: PRJDB4176, PRJEB27928, PRJEB6070, PRJEB72525, PRJEB72526, PRJEB7774, PRJNA1167935, and PRJNA389927. The analysis applies:
+This repository provides the code used to demonstrate the unified causal inference framework for our manuscript currently under review at Briefings in Bioinformatics (2026). It includes detailed results and figures generated from eight public colorectal cancer (CRC) metagenomic datasets available from the NCBI Sequence Read Archive (SRA) under accessions: PRJDB4176, PRJEB72525, PRJEB72526, PRJEB27928, PRJEB6070, PRJEB7774, and PRJNA1167935. The analysis applies:
 
 - Data harmonization and CLR transformation
 - DML estimation with cross-fitting (EconML)
